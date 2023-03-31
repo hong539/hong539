@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://hong539.github.io/](https://hong539.github.io/)
 
-- 💬 Ask me about **Python/K8s**
+- 💬 Ask me about **C/Python/K8s**
 
 - 📫 How to reach me **j50508@gmail.com**
 
