@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-beige-ten.vercel.app/api?username=hong539&show_icons=true&locale=en&theme=dark" alt="hong539" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hong539&" alt="hong539" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hong539&theme=dark" alt="hong539" /></p>
