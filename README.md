@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python/Golang/Rust/...many others**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hong539](https://github.com/hong539)
+- 👨‍💻 All of my projects are available at [README](https://github.com/hong539)
 
-- 📝 I regularly write articles on [https://hong539.github.io/](https://hong539.github.io/)
+- 📝 I regularly write articles on [setup_dev_environment](https://github.com/hong539/setup_dev_environment)
 
 - 💬 Ask me about **Cloud Computing/Networking/Python/C/Golang/K8s**
 
