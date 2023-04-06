@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hong539&theme=onedark" alt="hong539" /></a> </p>
 
-- 🔭 I’m currently working on [to_do_api](https://github.com/hong539/to_do_api)
+- 🔭 I’m currently working on [acgbox_crawler](https://github.com/hong539/acgbox_crawler)
 
-- 🌱 I’m currently learning **Python/Golang/Rust/...many others**
+- 🌱 I’m currently learning **Python/javascript/C++/Golang/Rust/...many others**
 
 - 👨‍💻 All of my projects are available at [README](https://github.com/hong539)
 
 - 📝 I regularly write articles on [setup_dev_environment](https://github.com/hong539/setup_dev_environment)
 
-- 💬 Ask me about **Cloud Computing/Networking/Python/C/Golang/K8s**
+- 💬 Ask me about **Cloud Computing/K8s/Networking/Python/C/**
 
 - 📫 How to reach me **j50508@gmail.com**
 
