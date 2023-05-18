@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=todo-react&theme=dark)](https://github.com/hong539/todo-react)
+[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=to_do_api&theme=dark)](https://github.com/hong539/to_do_api)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=sauce_man&theme=dark)](https://github.com/hong539/sauce_man)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=acgbox_crawler&theme=dark)](https://github.com/hong539/acgbox_crawler)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=ip_lookup&theme=dark)](https://github.com/hong539/ip_lookup)
@@ -5,7 +7,6 @@
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=LunchBreakCalculator&theme=dark)](https://github.com/hong539/LunchBreakCalculator)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=coding_collects&theme=dark)](https://github.com/hong539/coding_collects)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=ansible-qemu-kvm&theme=dark)](https://github.com/hong539/ansible-qemu-kvm)
-[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=to_do_api&theme=dark)](https://github.com/hong539/to_do_api)
 
 <h1 align="center">Hi 👋, I'm Desert</h1>
 <h3 align="center">A passionate unknown developer from World</h3>
@@ -16,13 +17,13 @@
 
 - 🔭 I’m currently working on [acgbox_crawler](https://github.com/hong539/acgbox_crawler)
 
-- 🌱 I’m currently learning **Python/javascript/C++/Golang/Rust/...many others**
+- 🌱 I’m currently learning **Python/javascript/Golang/Rust/C/C++/C#/Java...many others**
 
 - 👨‍💻 All of my projects are available at [README](https://github.com/hong539)
 
 - 📝 I regularly write articles on [setup_dev_environment](https://github.com/hong539/setup_dev_environment)
 
-- 💬 Ask me about **Cloud Computing/K8s/Networking/Python/C/**
+- 💬 Ask me about **CNCF Cloud Computing/K8s/Python/javascript/Golang/Rust/C/C++...etc**
 
 - 📫 How to reach me **j50508@gmail.com**
 
