@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hong539&theme=onedark" alt="hong539" /></a> </p>
 
-- 🔭 I’m currently working on [pelican_crash_lab](https://github.com/hong539/pelican_crash_lab) or extend My Passive Skill Tree.
+- 🔭 I’m currently working on Python-based projects or extending My Passive Skill Tree or researching other interesting fork-projects.
 
 - 🌱 I’m currently learning **Python/javascript/Golang/Rust/C/C++/C#/Java...many others**
 
