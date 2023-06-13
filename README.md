@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=pelican_crash_lab&theme=dark)](https://github.com/hong539/pelican_crash_lab)
+[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=k8s_lab&theme=dark)](https://github.com/hong539/k8s_lab)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=todo-react&theme=dark)](https://github.com/hong539/todo-react)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=to_do_api&theme=dark)](https://github.com/hong539/to_do_api)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=sauce_man&theme=dark)](https://github.com/hong539/sauce_man)
