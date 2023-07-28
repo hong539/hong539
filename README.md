@@ -1,5 +1,5 @@
-[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=gohan&theme=dark)]([https://github.com/hong539/todo-react](https://github.com/hong539/gohan))
-[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=local_library_website&theme=dark)]([https://github.com/hong539/to_do_api](https://github.com/hong539/local_library_website))
+[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=gohan&theme=dark)](https://github.com/hong539/gohan))
+[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=local_library_website&theme=dark)]((https://github.com/hong539/local_library_website))
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=sauce_man&theme=dark)](https://github.com/hong539/sauce_man)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=acgbox_crawler&theme=dark)](https://github.com/hong539/acgbox_crawler)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=ip_lookup&theme=dark)](https://github.com/hong539/ip_lookup)
