@@ -4,7 +4,6 @@
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=acgbox_crawler&theme=dark)](https://github.com/hong539/acgbox_crawler)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=cloud_arch_notes&theme=dark)](https://github.com/hong539/cloud_arch_notes)
 [![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=k8s_lab&theme=dark)](https://github.com/hong539/k8s_lab)
-[![Readme Card](https://github-readme-stats-two-green-53.vercel.app/api/pin/?username=hong539&repo=ansible-qemu-kvm&theme=dark)](https://github.com/hong539/ansible-qemu-kvm)
 
 <h1 align="center">Hi 👋, I'm Desert</h1>
 <h3 align="center">A passionate unknown developer from World</h3>
